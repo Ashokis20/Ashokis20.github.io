@@ -1,1 +1,300 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>PORTFOLIO</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#intro">ABOUT ME</a></li>
+							<li><a href="#one">EDUCATION</a></li>
+							<li><a href="#two">SKILLS</a></li>
+							<li><a href="#three">PROJECTS</a></li>
+							<li><a href="#four">CONTACT ME</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Intro -->
+					<section id="intro" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							<h1><span class="hl">ASHOK GAMEDEV.</span></h1>
+							<p>Hi, My name is <span class="hl">ASHOK DHARMAVARAM</span> currently a <span class="hl">fresher</span> but i will be a game developer, Since childhood, my fascination with game development tools and engines has been unwavering, setting me on a path towards realizing my dreams as a game developer. I've immersed myself in learning the intricacies of this dynamic field, driven by an innate passion for crafting immersive worlds and captivating experiences. With each new skill acquired and every project undertaken, I find myself more deeply entrenched in the realm of game development, confident that this journey is not only right for the games I want to create but also inherently right for me as a person.
+							
+							<span class="hl">After learning of UE5 i create a realistic desert landscape of having air storms and added a meta human to it shown footprints and sounds of footsteps, it just a little bit of my work and i will add this to the marketplace soon, hope you enjoyed</span></p>
+							<ul class="actions">
+								<li><a href="#three" class="button scrolly">Learn more</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style2 spotlights">
+						<section>
+							<a href="#" class="image"><img src="images/ad.jpg" alt="" data-position="center center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2><span class="hl">B.TECH</span></h2>
+									<p>I studied <span class="hl">ELECTRONIC COMMUNICATION ENGINEERING (ECE)</span> in <span class="hl">AUDISANKARA COLLEGE OF ENGINEERING AND TECHNOLOGY GUDUR,</span> achieving <span class="hl">75%</span> in between the years <span class="hl">2017-2022.</span></p>
+									<ul class="actions">
+										<li><a href="https://www.audisankara.ac.in/" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/nn.jpg" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2><span class="hl">INTERMEDIATE</span></h2>
+									<p>I studied <span class="hl">MPC</span> in <span class="hl">NRI JUNIOR COLLEGE, NELLORE,</span> achieving <span class="hl">73.5%</span> in between the years <span class="hl">2015-2017.</span> </p>
+									<ul class="actions">
+										<li><a href="https://nrieducationalsociety.com/" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/sc.jpg" alt="" data-position="25% 25%" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2><span class="hl">CLASS X</span></h2>
+									<p>I studied 10th class in <span class="hl">PMC HIGH SCHOOL NELLORE,</span> achieving <span class="hl">87%</span> in the year <span class="hl">2015.</span> </p>
+									<ul class="actions">
+										<li><a href="https://www.facebook.com/pages/pathivari%20municipal%20high%20school%20,nawabpeta,nellore/641984852821211/" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper style3 fade-up">
+						<div class="inner">
+							<h2><span class="hl">SKILLS</span></h2>
+							<p>These are the skills i learned and mastered  during my journey.</p>
+							<div class="features">
+								<section>
+									<span class="icon solid major fa-code"></span>
+									<h3>C, C++, C#</h3>
+									<p>I learned this programming languages at basic level except C++ at intermediate level which is quite advanced for me.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-lock"></span>
+									<h3>TEAM MANAGEMENT, LEADERSHIP SKILLS</h3>
+									<p>I well aware of this softskills which i learn  from my teammates in college.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-cog"></span>
+									<h3>COMMUNICATION SKILLS</h3>
+									<p>I got good communication in TELUGU, ENGLISH, HINDI. i can fluently speak and write TELUGU and ENGLISH in advanced level and hindi in intermediate level for me. </p>
+								</section>
+								<section>
+									<span class="icon solid major fa-desktop"></span>
+									<h3>HTML CSS JAVASCRIPT</h3>
+									<p>I learned these web development languages to make this website and in my past i learned this  as a part of challenge with my friends.</p>
+								</section>
+								<section>
+									<span class="icon solid major fa-link"></span>
+									<h3>BLENDER</h3>
+									<p>I learned and somehow mastered the blender tool for game development career.</p>
+								</section>
+								<section>
+									<span class="icon major fa-gem"></span>
+									<h3>UNREAL ENGINE AND UNITY3D EDITOR</h3>
+									<p>I learned and mastered the unreal engine for 2 years and unity editor for 1 year.</p>
+								</section>
+							</div>
+							<ul class="actions">
+								<li><a href="#three" class="button">Learn more</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Three -->
+						<section id="three" class="wrapper style1 fullscreen fade-up">
+							<video id="videoPlayer" width="640" height="360" autoplay controls>
+								<source src="images/Scene_1_13.mp4" type="video/mp4">
+								Your browser does not support the video tag.
+							  </video>
+
+							  <script>
+								// Get reference to the video player
+								var video = document.getElementById("videoPlayer");
+								
+								// Function to play the video
+								function playVideo() {
+								  // Check if the video is paused, if so, play it
+								  if (video.paused) {
+									video.play();
+								  }
+								}
+
+								// Add event listeners for scroll and click events on the document 
+                                document.addEventListener("scroll", playVideo);
+                                document.addEventListener("click", playVideo);
+								
+						
+								</script>
+
+<style>
+	/* CSS to make the video fill the entire viewport */
+	body, html {
+	  margin: 0;
+	  padding: 0;
+	  height: 100%;
+	}
+	#videoContainer {
+	  position: fixed;
+	  top: 0;
+	  left: 0;
+	  width: 100%;
+	  height: 100%;
+	  z-index: -1;
+	  overflow: hidden;
+	}
+	#videoPlayer {
+	  min-width: 100%;
+	  min-height: 100%;
+	  width: auto;
+	  height: auto;
+	  position: absolute;
+	  top: 50%;
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	}
+  </style>
+
+<div id="videoContainer">
+	<video id="videoPlayer" autoplay muted>
+	  <source src="images/Scene_1_13.mp4" type="video/mp4">
+	  Your browser does not support the video tag.
+	</video>
+  </div>
+
+  <script>
+	// Get reference to the video player
+	var video = document.getElementById("videoPlayer");
+	
+	// Function to play the video in repeat mode
+	video.addEventListener('ended', function() {
+	  video.currentTime = 0;
+	  video.play();
+	}, false);
+	</script>
+  
+  
+								
+							  
+						</section>
+				
+
+
+				<!---   Four -->
+				
+					<section id="four" class="wrapper style1 fade-up">
+						<div class="inner">
+							<h2>CONTACT ME</h2>
+							<p>If you like my work and if you wanna hire me, you can text me.</p>
+							<div class="split style1">
+								<section>
+									<form method="post" action="#">
+										<div class="fields">
+											<div class="field half">
+												<label for="name">Name</label>
+												<input type="text" name="name" id="name" />
+											</div>
+											<div class="field half">
+												<label for="email">Email</label>
+												<input type="text" name="email" id="email" />
+											</div>
+											<div class="field">
+												<label for="message">Message</label>
+												<textarea name="message" id="message" rows="5"></textarea>
+											</div>
+										</div>
+										<ul class="actions">
+											<li><a href="" class="button submit">Send Message</a></li>
+										</ul>
+									</form>
+
+									<script>
+										function sendEmail(){
+											Email.send({
+												secureToken: "0166210b-9c5f-45b1-a86d-4c037af0c550", // your token here 
+												To : 'dharmavaramashokxd@gmail.com',//your email address here
+												From  : document.getElementById('email').value,
+												Subject  : "Contact from Portfolio Enquiry",
+												Body : "Name: " +document.getElementById("name").value
+												+ "<br> Email: " +document.getElementById("email").value
+												+ "<br> Message: " + document.getElementById("message").value
+											}).then(
+												message  => alert("message sent successfully")
+											);
+										}
+									</script>
+								</section>
+								<section>
+									<ul class="contact">
+										<li>
+											<h3>Address</h3>
+											<span>PARAMESHWARI NAGAR, NELLORE, ANDHRA PRADESH, INDIA</span>
+										</li>
+										<li>
+											<h3>Email</h3>
+											<a href="#">DharmavaramAshokxd@gmail.com</a>
+										</li>
+										<li>
+											<h3>Phone</h3>
+											<span>+917093598161</span>
+										</li>
+										<li>
+											<h3>Social</h3>
+											<ul class="icons">
+												<li><a href="https://x.com/AaashXD?s=09" target="_blank" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+												<li><a href="https://www.facebook.com/aash.itzme?mibextid=ZbWKwL" target="_blank" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+												<li><a href="https://github.com/Ashokis20" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+												<li><a href="https://www.instagram.com/s.t.a.r.b.o.i.i?igsh=eTgzdzVuYzgyb3Q3" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+												<li><a href="https://www.linkedin.com/in/ashok-dharmavaram-13431b197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+											</ul>
+										</li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper style1-alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>My portfolio.</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
