@@ -4008,3 +4008,36 @@ input, select, textarea {
   #four .contact a:hover {
 	text-decoration: underline; /* Underline link on hover */
   }
+
+
+
+/* Third Section - Full Width */
+/* Third Section - Full Width */
+.skills.full-width {
+    width: 100%; /* Full screen width */
+    margin-left: 10%; /* Remove margins */
+    padding: 40px 20px; /* Padding for spacing */
+    background: -moz-linear-gradient(to right, #5e42a6, #b74e91);
+    box-sizing: border-box;
+}
+
+
+.skills-content {
+    text-align: left; /* Align the text to the left */
+    margin-bottom: 30px; /* Add space below the text content */
+}
+
+
+.skills-icons {
+    display: flex;
+    justify-content: space-evenly; /* Spread icons evenly */
+    align-items: center;
+    flex-wrap: wrap; /* Allow icons to wrap if needed */
+    gap: 20px; /* Add space between icons */
+    margin-top: 20px; /* Add space above the icons */
+}
+
+.skills-icons img {
+    width: 80px; /* Set icon size */
+    height: auto;
+}
