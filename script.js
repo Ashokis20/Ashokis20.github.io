@@ -1,6 +1,6 @@
 window.onload = function() {
     let msg = new SpeechSynthesisUtterance();
-    msg.text = " ABout Me let's start...  SOLO ENTHUSIASTIC.
+    msg.text = "ABout Me let's start...  SOLO ENTHUSIASTIC.
 Hi, My name is ASHOK DHARMAVARAM currently a fresher but i will be a game developer, Since childhood, im so fascinating about games, from nes to AAA titles i played and enjoyed, my doubts about how developers make this heavens are raised so often and then while in my b.tech final year, i started learning game engines like UE and UNITY, and this is my life.After learning about UE5, I created a realistic desert landscape featuring sandstorms. I added a MetaHuman character to it, showing footprints and incorporating sounds of footsteps. This is just a glimpse of my work, and I'll soon be adding it to the UE marketplace. I hope you enjoy it and education was B.TECH
 I studied ELECTRONIC COMMUNICATION ENGINEERING (ECE) in AUDISANKARA COLLEGE OF ENGINEERING AND TECHNOLOGY GUDUR, in between the years 2017-2022.
 
