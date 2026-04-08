@@ -232,7 +232,7 @@
       <div class="showcase-icons">
         <img src="images/icons/adobe-xd.png">
         <img src="images/icons/adobe-Illustrator-logo-0-1.png">
-        <img src="images/icons/m53btfyk.png">
+        <img src="images/icons/Unreal_Tournament_Logo_round_1-700x700.png">
       </div>
 
       <div class="showcase-text">
@@ -248,6 +248,128 @@
         <source src="images/GameUI.mp4" type="video/mp4">
       </video>
     </div>
+
+  </div>
+
+  <div class="showcase-container">
+
+    <!-- TOP -->
+    <div class="showcase-top">
+      <div class="showcase-icons">
+        <img src="images/icons/BI_MD_Vertical_Primary_Bl_01.png">
+        <img src="images/icons/autodesk_maya-logo_brandlogos.net_x7aqy.png">
+        <img src="images/icons/adobe-substance-3d-painter-icon.webp">
+		<img src="images/icons/Unreal_Tournament_Logo_round_1-700x700.png">
+		<img src="images/icons/adobeprimierepro.png">
+		<img src="images/icons/adobe media encoder.png">
+      </div>
+
+      <div class="showcase-text">
+        <h2>INDIAN LARACROFT</h2>
+        <h4>I CREATED INDIAN VERSION LARACROFT USING METAHUMAN.</h4>
+        <p>This created using MARVELOUS DESIGNER, AUTODESK MAYA, ADOBE SUBSTANCE 3D PAINTER, UNREAL ENGINE, ADOBE PREMIERE PRO, ADOBE MEDIA ENCODER.</p>
+      </div>
+    </div>
+
+    <!-- Turntable -->
+      <video autoplay loop playsinline controls muted
+             style="width:100%; max-width:900px; border-radius:10px; display:block; margin-top:20px;">
+        <source src="images/LaraCroft_Showcase.0000_5.mp4" type="video/mp4">
+      </video>
+
+      <!-- Showcase Sheet -->
+     <!-- CLICK TO OPEN IMAGE IN TRUE FULLSCREEN OVERLAY -->
+<div class="showcase-sheet-wrapper">
+  <img
+    id="showcaseSheet"
+    src="images/Laracroft_showcasesheet.png"
+    alt="Indian Lara Croft Showcase Sheet"
+  >
+</div>
+
+<!-- FULLSCREEN OVERLAY -->
+<div id="imageOverlay" class="image-overlay">
+  <span class="close-btn">&times;</span>
+  <img id="overlayImage" src="" alt="Fullscreen Preview">
+</div>
+
+<style>
+  .showcase-sheet-wrapper {
+    width: 100%;
+    max-width: 900px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+
+  .showcase-sheet-wrapper img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+  }
+
+  /* REAL FULLSCREEN OVERLAY */
+  .image-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.95);
+    z-index: 99999;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .image-overlay img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+
+  .close-btn {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 40px;
+    color: white;
+    cursor: pointer;
+    z-index: 100000;
+    user-select: none;
+  }
+</style>
+
+<script>
+  const showcaseImg = document.getElementById("showcaseSheet");
+  const overlay = document.getElementById("imageOverlay");
+  const overlayImg = document.getElementById("overlayImage");
+  const closeBtn = document.querySelector(".close-btn");
+
+  showcaseImg.addEventListener("click", function () {
+    overlay.style.display = "flex";
+    overlayImg.src = this.src;
+    document.body.style.overflow = "hidden";
+  });
+
+  closeBtn.addEventListener("click", function () {
+    overlay.style.display = "none";
+    document.body.style.overflow = "auto";
+  });
+
+  overlay.addEventListener("click", function (e) {
+    if (e.target === overlay) {
+      overlay.style.display = "none";
+      document.body.style.overflow = "auto";
+    }
+  });
+</script>
+
+      <!-- Animation -->
+      <video autoplay loop playsinline controls muted
+             style="width:100%; max-width:900px; border-radius:10px; display:block; margin-top:20px;">
+        <source src="images/LaraCroft_Action.0001.mp4" type="video/mp4">
+      </video>
 
   </div>
 
@@ -486,8 +608,9 @@
 												<li><a href="https://x.com/AaashXD?s=09" target="_blank" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 												<li><a href="https://www.facebook.com/aash.itzme?mibextid=ZbWKwL" target="_blank" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
 												<li><a href="https://github.com/Ashokis20" target="_blank" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-												<li><a href="https://www.instagram.com/dharmavaram_ak/?utm_source=ig_web_button_share_sheet" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-												<li><a href="https://www.linkedin.com/in/ashok-dharmavaram-280616313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><span class="label">LinkedIn</span></a></li>
+												<li><a href="https://www.instagram.com/dharmavaram_ak/?utm_source=ig_web_button_share_sheet" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+												<li><a href="https://www.linkedin.com/in/ashok-dharmavaram-280616313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+												<li><a href="https://www.artstation.com/ashok20" target="_blank" class="icon brands fa-artstation" ><span class="label">Artstation</span></a></li>
 											</ul>
 										</li>
 									</ul>
